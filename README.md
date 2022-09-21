@@ -4,6 +4,9 @@ Companion code to the preprint "Setting the rhythm scene: deep learning-based dr
 First ensure you have the required libraries installed:
 
     keras
+    numpy
+    torch
+    transformers
 
 Unpack the pre-trained model:
 
@@ -17,4 +20,4 @@ If you have any questions, please contact the author at ignacio.tripodi (at) col
 
 Citations:
 
-*Tripodi, I.J., "Setting the rhythm scene: deep learning-based drum loop generation from arbitrary language cues" 
+*Tripodi, I.J., "Setting the rhythm scene: deep learning-based drum loop generation from arbitrary language cues" *
