@@ -20,4 +20,5 @@ If you have any questions, please contact the author at ignacio.tripodi (at) col
 
 Citations:
 
-*Tripodi, I.J., "Setting the rhythm scene: deep learning-based drum loop generation from arbitrary language cues" *
+*I. J. Tripodi, “Setting the rhythm scene: deep learning-based drum loop generation from arbitrary language cues.” arXiv, Sep. 20, 2022. doi: [10.48550/arXiv.2209.10016](https://arxiv.org/abs/2209.10016).*
+
